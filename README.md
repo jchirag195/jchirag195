@@ -1,9 +1,9 @@
 <!-- Stylish name with SVG & rocket -->
 <h1 align="center" style="font-size:2.7rem;font-weight:bold;">
-  Chirag Joshi 🚀 <span style="font-size:2rem;">👋</span>
-</h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34" style="vertical-align: middle;display:inline-block;margin-left:8px;" alt="Waving hand">
+  Chirag Joshi 🚀   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34" style="vertical-align: middle;display:inline-block;margin-left:8px;" alt="Waving hand">
 </p>
+</h1>
+
 
 <!-- Improved, centered, smaller, and elegant tagline -->
 <p align="center">
