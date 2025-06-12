@@ -1,7 +1,7 @@
 <!-- Stylish name with SVG & rocket -->
-<p align="center" style="margin-bottom: 0;">
-  <img src="https://svgur.com/i/14Zf.svg" width="330" alt="Chirag Joshi SVG Name" style="display:inline-block;vertical-align:middle;"/>
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/rocket.gif" width="38" style="vertical-align: middle;display:inline-block;" alt="Rocket animation">
+<h1 align="center" style="font-size:2.7rem;font-weight:bold;">
+  Chirag Joshi 🚀 <span style="font-size:2rem;">👋</span>
+</h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34" style="vertical-align: middle;display:inline-block;margin-left:8px;" alt="Waving hand">
 </p>
 
