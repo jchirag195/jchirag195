@@ -1,16 +1,18 @@
-<h1 align="center">Chirag Joshi 🚀</h1>
-
+<!-- Splendid animated name with SVG & rocket -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer+%7C+Full-Stack+Learner;Turning+Ideas+Into+User-Focused+Web+Apps;Let's+Build+Something+Awesome+Together!" alt="Animated header" />
+  <!-- Custom SVG for your name (feel free to ask for a different color/font style!) -->
+  <img src="https://svgur.com/i/14Zf.svg" width="420" alt="Chirag Joshi SVG Name" />
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/rocket.gif" width="60" style="vertical-align: middle;" alt="Rocket animation">
 </p>
-<!-- Animated Name & Tagline -->
+
+<!-- Stylish tagline with animated typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Chirag+Joshi+%F0%9F%92%BB;Aspiring+Software+Engineer+%7C+Full-Stack+Learner;Turning+Ideas+Into+User-Focused+Web+Apps;Let's+Build+Something+Awesome+Together!" alt="Animated header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=2200&pause=1250&color=FF6F61&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer+and+Full-Stack+Learner;Turning+Ideas+Into+User-Focused+Web+Apps;Let's+Build+Something+Amazing+Together!%F0%9F%92%A1" alt="Animated Tagline" />
 </p>
 
 <!-- Animated Avatar (optional, change link for your own GIF) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" alt="Waving hand animation">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="110" alt="Waving hand animation">
 </p>
 
 ---
