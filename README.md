@@ -1,3 +1,8 @@
+<h1 align="center">Chirag Joshi 🚀</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer+%7C+Full-Stack+Learner;Turning+Ideas+Into+User-Focused+Web+Apps;Let's+Build+Something+Awesome+Together!" alt="Animated header" />
+</p>
 <!-- Animated Name & Tagline -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Chirag+Joshi+%F0%9F%92%BB;Aspiring+Software+Engineer+%7C+Full-Stack+Learner;Turning+Ideas+Into+User-Focused+Web+Apps;Let's+Build+Something+Awesome+Together!" alt="Animated header" />
