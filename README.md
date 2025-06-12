@@ -1,21 +1,16 @@
-<!-- Splendid animated name with SVG & rocket -->
-<p align="center">
-  <!-- Custom SVG for your name (feel free to ask for a different color/font style!) -->
-  <img src="https://svgur.com/i/14Zf.svg" width="420" alt="Chirag Joshi SVG Name" />
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/rocket.gif" width="60" style="vertical-align: middle;" alt="Rocket animation">
+<!-- Stylish name with SVG & rocket -->
+<p align="center" style="margin-bottom: 0;">
+  <img src="https://svgur.com/i/14Zf.svg" width="330" alt="Chirag Joshi SVG Name" style="display:inline-block;vertical-align:middle;"/>
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/rocket.gif" width="38" style="vertical-align: middle;display:inline-block;" alt="Rocket animation">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34" style="vertical-align: middle;display:inline-block;margin-left:8px;" alt="Waving hand">
 </p>
 
-<!-- Stylish tagline with animated typing effect -->
+<!-- Improved, centered, smaller, and elegant tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=2200&pause=1250&color=FF6F61&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer+and+Full-Stack+Learner;Turning+Ideas+Into+User-Focused+Web+Apps;Let's+Build+Something+Amazing+Together!%F0%9F%92%A1" alt="Animated Tagline" />
+  <span style="font-size:1.3rem;color:#FF6F61;font-family:'Fira Mono',Consolas,monospace;font-weight:bold;">
+    Turning Ideas Into User-Focused Web Apps
+  </span>
 </p>
-
-<!-- Animated Avatar (optional, change link for your own GIF) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="110" alt="Waving hand animation">
-</p>
-
----
 
 <h2 align="center">🚀 About Me</h2>
 <p align="center">
